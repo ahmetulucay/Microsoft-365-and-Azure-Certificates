@@ -1,2 +1,2 @@
-# Courses-and-Videos
-COURSES (UDEMY, COURSERA, etc.) AND OTHER TAKEN EDUCATION VIDEOS
+Courses-and-Videos
+Courses (Udemy, Coursera, etc.) & Education Videos
